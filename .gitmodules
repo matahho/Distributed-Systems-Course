@@ -4,3 +4,6 @@
 [submodule "Distributed-Systems-Course-Project1"]
 	path = Distributed-Systems-Course-Project1
 	url = https://github.com/matahho/Distributed-Systems-Course-Project1.git
+[submodule "Distributed-Systems-Course-Project2"]
+	path = Distributed-Systems-Course-Project2
+	url = https://github.com/matahho/Distributed-Systems-Course-Project2.git
